@@ -1,0 +1,28 @@
+admin portal is the head of the system as the all data on user portal managed by admin only.
+
+
+on dashboard admin can see the no of donors registered for blood donation and the no of feedback given by the users
+
+
+here, admin can see the full details of the donors like .. and if the user already donated the blood or don't want to 
+donate blood after registration then admin can easily delete donor data
+
+
+same as donor details admin also sees the feedbacks given by users. beacuse of user's suggestion he will understant 
+the good or bad things about the system and try to work on their suggestions for better performance.
+
+
+if donor will do direct contact to the admin for the registration then admin also add the data of donor details.
+
+
+(manage page data)admin is going to manage all the guidelines and blood donation information which given in user panel. 
+by using this page he can be accesible to update the page data
+
+
+update contact info- in this page admin can update the contact information which is display on the footer side of every 
+web page of user panel.
+
+
+here we can see the information of pages and contact details is successfully updated.
+
+
